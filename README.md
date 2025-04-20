@@ -1,2 +1,2 @@
 # test
-tst repo
+tst repo for commands demostrtion
